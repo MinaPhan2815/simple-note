@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Notes.NotesPage"
+             Title="📝 Ghi chú">
+
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="🔎︎"
+                     Clicked="OnSearchButtonClicked"/>
+        <ToolbarItem Text="+"
+                     Clicked="OnNoteAddedClicked"/>
+        <ToolbarItem Text="Thùng rác ⌂"
+                     Clicked="OnTrashButtonClicked"
+                     Order="Secondary"/>
+        <ToolbarItem Text="Sắp xếp ↑↓"
+                     Clicked="OnSortButtonClicked"
+                     Order="Secondary"/>
+    </ContentPage.ToolbarItems>
+
+    <StackLayout>
+        <SearchBar x:Name="searchBar"
+                   Placeholder="Tìm kiếm..."
+                   TextColor="#1976D2"
+                   TextChanged="OnSearchBarTextChanged"
+                   IsVisible="False"
+                />
+
+        <ListView x:Name="listView"
+          Margin="{StaticResource PageMargin}"
+          ItemSelected="OnListViewItemSelected"
+             HasUnevenRows="True" >
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <Grid>
+                            <Label Grid.Row="0" Text="{Binding Title}" TextColor="#1976D2" FontAttributes="Bold"
+                                   HeightRequest="1" />
+                            <Label Grid.Row="1" Text="{Binding Text}"  HeightRequest="1"/>
+                            <Label Grid.Row="2" FormattedText="{Binding FormattedDate}" TextColor="#eed076"/>
+                        </Grid>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+
+        <StackLayout x:Name="emptyListMessage" IsVisible="True" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand">
+            <Label Text="Danh sách trống" FontSize="20" TextColor="Gray"/>
+        </StackLayout>
+
+        <Label Text="✪ MinhNhatPhan" TextColor="#1976D2" HorizontalOptions="Center" Padding="10"/>
+    </StackLayout>
+
+</ContentPage>

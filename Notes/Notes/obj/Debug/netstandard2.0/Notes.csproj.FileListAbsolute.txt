@@ -1,0 +1,101 @@
+C:\Users\phann\Downloads\Notes-2.0\Notes\Notes\Notes\bin\Debug\netstandard2.0\Notes.deps.json
+C:\Users\phann\Downloads\Notes-2.0\Notes\Notes\Notes\bin\Debug\netstandard2.0\Notes.dll
+C:\Users\phann\Downloads\Notes-2.0\Notes\Notes\Notes\bin\Debug\netstandard2.0\ref\Notes.dll
+C:\Users\phann\Downloads\Notes-2.0\Notes\Notes\Notes\bin\Debug\netstandard2.0\Notes.pdb
+C:\Users\phann\Downloads\Notes-2.0\Notes\Notes\Notes\obj\Debug\netstandard2.0\Notes.csproj.AssemblyReference.cache
+C:\Users\phann\Downloads\Notes-2.0\Notes\Notes\Notes\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\phann\Downloads\Notes-2.0\Notes\Notes\Notes\obj\Debug\netstandard2.0\NoteDetailPage.xaml.g.cs
+C:\Users\phann\Downloads\Notes-2.0\Notes\Notes\Notes\obj\Debug\netstandard2.0\NoteEntryPage.xaml.g.cs
+C:\Users\phann\Downloads\Notes-2.0\Notes\Notes\Notes\obj\Debug\netstandard2.0\NotesPage.xaml.g.cs
+C:\Users\phann\Downloads\Notes-2.0\Notes\Notes\Notes\obj\Debug\netstandard2.0\Notes.csproj.CoreCompileInputs.cache
+C:\Users\phann\Downloads\Notes-2.0\Notes\Notes\Notes\obj\Debug\netstandard2.0\Notes.AssemblyInfoInputs.cache
+C:\Users\phann\Downloads\Notes-2.0\Notes\Notes\Notes\obj\Debug\netstandard2.0\Notes.AssemblyInfo.cs
+C:\Users\phann\Downloads\Notes-2.0\Notes\Notes\Notes\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\phann\Downloads\Notes-2.0\Notes\Notes\Notes\obj\Debug\netstandard2.0\Notes.dll
+C:\Users\phann\Downloads\Notes-2.0\Notes\Notes\Notes\obj\Debug\netstandard2.0\ref\Notes.dll
+C:\Users\phann\Downloads\Notes-2.0\Notes\Notes\Notes\obj\Debug\netstandard2.0\Notes.pdb
+C:\Users\phann\Downloads\Notes-2.1\Notes\Notes\Notes\obj\Debug\netstandard2.0\Notes.csproj.AssemblyReference.cache
+C:\Users\phann\Downloads\Notes-2.1\Notes\Notes\Notes\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\phann\Downloads\Notes-2.1\Notes\Notes\Notes\obj\Debug\netstandard2.0\NoteDetailPage.xaml.g.cs
+C:\Users\phann\Downloads\Notes-2.1\Notes\Notes\Notes\obj\Debug\netstandard2.0\NoteEntryPage.xaml.g.cs
+C:\Users\phann\Downloads\Notes-2.1\Notes\Notes\Notes\obj\Debug\netstandard2.0\NotesPage.xaml.g.cs
+C:\Users\phann\Downloads\Notes-2.1\Notes\Notes\Notes\obj\Debug\netstandard2.0\TrashPage.xaml.g.cs
+C:\Users\phann\Downloads\Notes-2.1\Notes\Notes\Notes\obj\Debug\netstandard2.0\Notes.csproj.CoreCompileInputs.cache
+C:\Users\phann\Downloads\Notes-2.1\Notes\Notes\Notes\obj\Debug\netstandard2.0\Notes.AssemblyInfoInputs.cache
+C:\Users\phann\Downloads\Notes-2.1\Notes\Notes\Notes\obj\Debug\netstandard2.0\Notes.AssemblyInfo.cs
+C:\Users\phann\Downloads\Notes-2.1\Notes\Notes\Notes\obj\Debug\netstandard2.0\Notes.dll
+C:\Users\phann\Downloads\Notes-2.1\Notes\Notes\Notes\obj\Debug\netstandard2.0\ref\Notes.dll
+C:\Users\phann\Downloads\Notes-2.1\Notes\Notes\Notes\obj\Debug\netstandard2.0\Notes.pdb
+C:\Users\phann\Downloads\Notes-2.1\Notes\Notes\Notes\bin\Debug\netstandard2.0\Notes.deps.json
+C:\Users\phann\Downloads\Notes-2.1\Notes\Notes\Notes\bin\Debug\netstandard2.0\Notes.dll
+C:\Users\phann\Downloads\Notes-2.1\Notes\Notes\Notes\bin\Debug\netstandard2.0\ref\Notes.dll
+C:\Users\phann\Downloads\Notes-2.1\Notes\Notes\Notes\bin\Debug\netstandard2.0\Notes.pdb
+C:\Users\phann\Downloads\Notes-2.1\Notes\Notes\Notes\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\phann\Downloads\Notes-3.0\Notes\Notes\Notes\bin\Debug\netstandard2.0\Notes.deps.json
+C:\Users\phann\Downloads\Notes-3.0\Notes\Notes\Notes\bin\Debug\netstandard2.0\Notes.dll
+C:\Users\phann\Downloads\Notes-3.0\Notes\Notes\Notes\bin\Debug\netstandard2.0\ref\Notes.dll
+C:\Users\phann\Downloads\Notes-3.0\Notes\Notes\Notes\bin\Debug\netstandard2.0\Notes.pdb
+C:\Users\phann\Downloads\Notes-3.0\Notes\Notes\Notes\obj\Debug\netstandard2.0\Notes.csproj.AssemblyReference.cache
+C:\Users\phann\Downloads\Notes-3.0\Notes\Notes\Notes\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\phann\Downloads\Notes-3.0\Notes\Notes\Notes\obj\Debug\netstandard2.0\NoteDetailPage.xaml.g.cs
+C:\Users\phann\Downloads\Notes-3.0\Notes\Notes\Notes\obj\Debug\netstandard2.0\NoteEntryPage.xaml.g.cs
+C:\Users\phann\Downloads\Notes-3.0\Notes\Notes\Notes\obj\Debug\netstandard2.0\NotesPage.xaml.g.cs
+C:\Users\phann\Downloads\Notes-3.0\Notes\Notes\Notes\obj\Debug\netstandard2.0\TrashPage.xaml.g.cs
+C:\Users\phann\Downloads\Notes-3.0\Notes\Notes\Notes\obj\Debug\netstandard2.0\Notes.csproj.CoreCompileInputs.cache
+C:\Users\phann\Downloads\Notes-3.0\Notes\Notes\Notes\obj\Debug\netstandard2.0\Notes.AssemblyInfoInputs.cache
+C:\Users\phann\Downloads\Notes-3.0\Notes\Notes\Notes\obj\Debug\netstandard2.0\Notes.AssemblyInfo.cs
+C:\Users\phann\Downloads\Notes-3.0\Notes\Notes\Notes\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\phann\Downloads\Notes-3.0\Notes\Notes\Notes\obj\Debug\netstandard2.0\Notes.dll
+C:\Users\phann\Downloads\Notes-3.0\Notes\Notes\Notes\obj\Debug\netstandard2.0\ref\Notes.dll
+C:\Users\phann\Downloads\Notes-3.0\Notes\Notes\Notes\obj\Debug\netstandard2.0\Notes.pdb
+C:\Users\phann\Downloads\Notes-3.0 - Copy\Notes\Notes\Notes\bin\Debug\netstandard2.0\Notes.deps.json
+C:\Users\phann\Downloads\Notes-3.0 - Copy\Notes\Notes\Notes\bin\Debug\netstandard2.0\Notes.dll
+C:\Users\phann\Downloads\Notes-3.0 - Copy\Notes\Notes\Notes\bin\Debug\netstandard2.0\ref\Notes.dll
+C:\Users\phann\Downloads\Notes-3.0 - Copy\Notes\Notes\Notes\bin\Debug\netstandard2.0\Notes.pdb
+C:\Users\phann\Downloads\Notes-3.0 - Copy\Notes\Notes\Notes\obj\Debug\netstandard2.0\Notes.csproj.AssemblyReference.cache
+C:\Users\phann\Downloads\Notes-3.0 - Copy\Notes\Notes\Notes\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\phann\Downloads\Notes-3.0 - Copy\Notes\Notes\Notes\obj\Debug\netstandard2.0\NoteDetailPage.xaml.g.cs
+C:\Users\phann\Downloads\Notes-3.0 - Copy\Notes\Notes\Notes\obj\Debug\netstandard2.0\NoteEntryPage.xaml.g.cs
+C:\Users\phann\Downloads\Notes-3.0 - Copy\Notes\Notes\Notes\obj\Debug\netstandard2.0\NotesPage.xaml.g.cs
+C:\Users\phann\Downloads\Notes-3.0 - Copy\Notes\Notes\Notes\obj\Debug\netstandard2.0\TrashPage.xaml.g.cs
+C:\Users\phann\Downloads\Notes-3.0 - Copy\Notes\Notes\Notes\obj\Debug\netstandard2.0\Notes.csproj.CoreCompileInputs.cache
+C:\Users\phann\Downloads\Notes-3.0 - Copy\Notes\Notes\Notes\obj\Debug\netstandard2.0\Notes.AssemblyInfoInputs.cache
+C:\Users\phann\Downloads\Notes-3.0 - Copy\Notes\Notes\Notes\obj\Debug\netstandard2.0\Notes.AssemblyInfo.cs
+C:\Users\phann\Downloads\Notes-3.0 - Copy\Notes\Notes\Notes\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\phann\Downloads\Notes-3.0 - Copy\Notes\Notes\Notes\obj\Debug\netstandard2.0\Notes.dll
+C:\Users\phann\Downloads\Notes-3.0 - Copy\Notes\Notes\Notes\obj\Debug\netstandard2.0\ref\Notes.dll
+C:\Users\phann\Downloads\Notes-3.0 - Copy\Notes\Notes\Notes\obj\Debug\netstandard2.0\Notes.pdb
+C:\Users\phann\Downloads\Notes-3.0 - simple\Notes\Notes\Notes\obj\Debug\netstandard2.0\Notes.csproj.AssemblyReference.cache
+C:\Users\phann\Downloads\Notes-3.0 - simple\Notes\Notes\Notes\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\phann\Downloads\Notes-3.0 - simple\Notes\Notes\Notes\obj\Debug\netstandard2.0\NoteDetailPage.xaml.g.cs
+C:\Users\phann\Downloads\Notes-3.0 - simple\Notes\Notes\Notes\obj\Debug\netstandard2.0\NoteEntryPage.xaml.g.cs
+C:\Users\phann\Downloads\Notes-3.0 - simple\Notes\Notes\Notes\obj\Debug\netstandard2.0\NotesPage.xaml.g.cs
+C:\Users\phann\Downloads\Notes-3.0 - simple\Notes\Notes\Notes\obj\Debug\netstandard2.0\TrashPage.xaml.g.cs
+C:\Users\phann\Downloads\Notes-3.0 - simple\Notes\Notes\Notes\obj\Debug\netstandard2.0\Notes.csproj.CoreCompileInputs.cache
+C:\Users\phann\Downloads\Notes-3.0 - simple\Notes\Notes\Notes\obj\Debug\netstandard2.0\Notes.AssemblyInfoInputs.cache
+C:\Users\phann\Downloads\Notes-3.0 - simple\Notes\Notes\Notes\obj\Debug\netstandard2.0\Notes.AssemblyInfo.cs
+C:\Users\phann\Downloads\Notes-3.0 - simple\Notes\Notes\Notes\obj\Debug\netstandard2.0\Notes.dll
+C:\Users\phann\Downloads\Notes-3.0 - simple\Notes\Notes\Notes\obj\Debug\netstandard2.0\ref\Notes.dll
+C:\Users\phann\Downloads\Notes-3.0 - simple\Notes\Notes\Notes\obj\Debug\netstandard2.0\Notes.pdb
+C:\Users\phann\Downloads\Notes-3.0 - simple\Notes\Notes\Notes\bin\Debug\netstandard2.0\Notes.deps.json
+C:\Users\phann\Downloads\Notes-3.0 - simple\Notes\Notes\Notes\bin\Debug\netstandard2.0\Notes.dll
+C:\Users\phann\Downloads\Notes-3.0 - simple\Notes\Notes\Notes\bin\Debug\netstandard2.0\ref\Notes.dll
+C:\Users\phann\Downloads\Notes-3.0 - simple\Notes\Notes\Notes\bin\Debug\netstandard2.0\Notes.pdb
+C:\Users\phann\Downloads\Notes-3.0 - simple\Notes\Notes\Notes\obj\Debug\netstandard2.0\XamlC.stamp
+D:\build app\Notes-3.0 - simple\Notes\Notes\Notes\bin\Debug\netstandard2.0\Notes.deps.json
+D:\build app\Notes-3.0 - simple\Notes\Notes\Notes\bin\Debug\netstandard2.0\Notes.dll
+D:\build app\Notes-3.0 - simple\Notes\Notes\Notes\bin\Debug\netstandard2.0\ref\Notes.dll
+D:\build app\Notes-3.0 - simple\Notes\Notes\Notes\bin\Debug\netstandard2.0\Notes.pdb
+D:\build app\Notes-3.0 - simple\Notes\Notes\Notes\obj\Debug\netstandard2.0\Notes.csproj.AssemblyReference.cache
+D:\build app\Notes-3.0 - simple\Notes\Notes\Notes\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\build app\Notes-3.0 - simple\Notes\Notes\Notes\obj\Debug\netstandard2.0\NoteDetailPage.xaml.g.cs
+D:\build app\Notes-3.0 - simple\Notes\Notes\Notes\obj\Debug\netstandard2.0\NoteEntryPage.xaml.g.cs
+D:\build app\Notes-3.0 - simple\Notes\Notes\Notes\obj\Debug\netstandard2.0\NotesPage.xaml.g.cs
+D:\build app\Notes-3.0 - simple\Notes\Notes\Notes\obj\Debug\netstandard2.0\TrashPage.xaml.g.cs
+D:\build app\Notes-3.0 - simple\Notes\Notes\Notes\obj\Debug\netstandard2.0\Notes.csproj.CoreCompileInputs.cache
+D:\build app\Notes-3.0 - simple\Notes\Notes\Notes\obj\Debug\netstandard2.0\Notes.AssemblyInfoInputs.cache
+D:\build app\Notes-3.0 - simple\Notes\Notes\Notes\obj\Debug\netstandard2.0\Notes.AssemblyInfo.cs
+D:\build app\Notes-3.0 - simple\Notes\Notes\Notes\obj\Debug\netstandard2.0\XamlC.stamp
+D:\build app\Notes-3.0 - simple\Notes\Notes\Notes\obj\Debug\netstandard2.0\Notes.dll
+D:\build app\Notes-3.0 - simple\Notes\Notes\Notes\obj\Debug\netstandard2.0\ref\Notes.dll
+D:\build app\Notes-3.0 - simple\Notes\Notes\Notes\obj\Debug\netstandard2.0\Notes.pdb

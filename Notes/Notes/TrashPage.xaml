@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Notes.TrashPage"
+             Title="🗑️ Thùng rác">
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="✕!" 
+                     Clicked="OnDeleteAllClicked"/>
+        <ToolbarItem Text="↺" 
+                     Clicked="OnRestoreAllClicked"/>
+    </ContentPage.ToolbarItems>
+    <StackLayout>
+    <ListView x:Name="listView"
+              Margin="{StaticResource PageMargin}"
+              ItemSelected="OnNoteSelected"
+              HasUnevenRows="True">
+        <ListView.ItemTemplate>
+            <DataTemplate>
+                <ViewCell>
+                    <Grid>
+                            <Label Grid.Row="0" HeightRequest="1" Text="{Binding Title}" TextColor="#1976D2" FontAttributes="Bold" />
+                            <Label Grid.Row="1" HeightRequest="1" Text="{Binding Text}" />
+                            <Label Grid.Row="2" FormattedText="{Binding FormattedDate}"  TextColor="#eed076"/>
+                    </Grid>
+                </ViewCell>
+            </DataTemplate>
+        </ListView.ItemTemplate>
+    </ListView>
+
+        <StackLayout x:Name="emptyTrashMessage" IsVisible="True" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand">
+        <Label Text="Thùng rác trống" FontSize="20" TextColor="Gray"/>
+    </StackLayout>
+        
+    </StackLayout>
+</ContentPage>

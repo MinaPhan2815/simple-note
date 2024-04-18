@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Notes.NoteDetailPage"
+             Title="👀 Xem ghi chú">
+
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="✗"
+                     Clicked="OnDeleteButtonClicked" />
+        <ToolbarItem Text="✎"
+                     Clicked="OnUpdateButtonClicked" />
+    </ContentPage.ToolbarItems>
+
+    <StackLayout Margin="{StaticResource PageMargin}">
+        <Label FontSize="Body" TextColor="#1976D2" 
+               Text="{Binding Title}" FontAttributes="Bold" />
+        <ScrollView VerticalOptions="FillAndExpand">
+            <Label  Text="{Binding Text}" FontAttributes="Bold"  TextColor="Gray " FontSize="Body"/>
+        </ScrollView>
+    </StackLayout>
+
+</ContentPage>
